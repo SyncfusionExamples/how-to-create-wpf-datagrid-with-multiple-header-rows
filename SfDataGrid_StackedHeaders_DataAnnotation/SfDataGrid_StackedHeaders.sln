@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SfDataGrid_StackedHeaders", "SfDataGrid_StackedHeaders.csproj", "{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE46372A-D00F-41DE-B6F3-87BB58BBC6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC3C686-1F08-4EA7-A913-198C49DEA94A}
+	EndGlobalSection
+EndGlobal
