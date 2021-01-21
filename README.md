@@ -31,7 +31,7 @@ Each [StackedHeaderRow](http://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Gri
 
 ```
 
-![StackedHeaders](Images\StackedHeaders_Image.png)
+![StackedHeaders](Images/StackedHeaders_Image.png)
 
 ## Stacked Headers using Data Annotation 
 
@@ -141,7 +141,7 @@ public string Country
 
 ```
 
-![StackedHeaders using DataAnnotation](Images\StackedHeaders_DataAnnotation_Image.png)
+![StackedHeaders using DataAnnotation](Images/StackedHeaders_DataAnnotation_Image.png)
 
 ## Changing stacked header row height 
 
@@ -203,7 +203,7 @@ The appearance of stacked header can be customized by writing style with TargetT
 
 ```
 
-![StackedHeaders Styling](Images\StackedHeaders_Styling_Image.png)
+![StackedHeaders Styling](Images/StackedHeaders_Styling_Image.png)
 
 ## Requirements to run the demo 
 
