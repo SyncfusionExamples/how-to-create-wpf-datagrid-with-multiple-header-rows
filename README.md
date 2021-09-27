@@ -205,6 +205,8 @@ The appearance of stacked header can be customized by writing style with TargetT
 
 ![StackedHeaders Styling](Images/StackedHeaders_Styling_Image.png)
 
+KB article - [How to create wpf datagrid with multiple header rows (stacked header rows)?](https://www.syncfusion.com/kb/12299/how-to-create-wpf-datagrid-sfdatagrid-with-multiple-header-rows-stacked-header-rows)
+
 ## Requirements to run the demo 
 
 Visual Studio 2015 and above versions.
